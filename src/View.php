@@ -1,5 +1,5 @@
 <?php
-namespace Ti\Cardfraudsm;
+namespace Inno\Telthemweb;
 class View
 {
     public function __construct()
