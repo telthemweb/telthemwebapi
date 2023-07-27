@@ -1,5 +1,9 @@
 {
     "name": "inno/telthemweb",
+    "type": "framework",
+    "description": "The Telthem framework is a simple PHP framework that helps to create web apps without too much hassle.",
+    "keywords": ["Telthemweb","Innocent","Tauzeni","Telthem","PHP Framework"],
+    "homepage": "https://github.com/telthemweb/telthemwebapi.git",
     "license": "MIT",
     "autoload": {
         "psr-4": {
@@ -11,8 +15,10 @@
     },
     "authors": [
         {
-            "name": "Telthemweb",
-            "email": "telthem.kerlyeen@gmail.com"
+            "name": "Innocent Tauzeni",
+            "homepage": "http://telthemweb.co.zw",
+            "email": "innocent.tauzeni@gmail.com",
+            "role": "Developer"
         }
     ],
     "require": {
